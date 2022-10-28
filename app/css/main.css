@@ -1,0 +1,19 @@
+#header{
+position: absolute;
+width: 1440px;
+height: 150px;
+left: 0px;
+top: 0px;
+
+background: #E1E1E1;
+}
+#fon_logo{
+position: absolute;
+width: 500px;
+height: 100px;
+left: 25px;
+top: 25px;
+
+background: #FFFFFF;
+border-radius: 75px;
+}
