@@ -1,12 +1,13 @@
 #header{
 position: absolute;
-width: 1440px;
+width: 100%;
 height: 150px;
 left: 0px;
 top: 0px;
 
 background: #E1E1E1;
 }
+/* ===================================================================================== */
 #fon_logo{
 position: absolute;
 width: 500px;
@@ -17,3 +18,157 @@ top: 25px;
 background: #FFFFFF;
 border-radius: 75px;
 }
+
+#kartinka{
+position: absolute;
+width: 100px;
+height: 100px;
+left: 25px;
+top: 25px;
+background-image: url(logo.png);
+background-repeat: no-repeat;
+background-size: contain;
+border-radius: 75px;
+}
+
+#textlogo{
+position: absolute;
+width: 400px;
+height: 80px;
+left: 104px;
+top: 37px;
+
+font-family: 'Bahnschrift';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 26px;
+text-align: center;
+}
+/* ===================================================================================== */
+#button_gostyam_myseya{
+    position: absolute;
+width: 160px;
+height: 70px;
+left: 583px;
+top: 40px;
+
+background: #FFFFFF;
+border-radius: 20px;
+}
+
+#text_gostyam_myseya{
+    position: absolute;
+width: 127px;
+height: 85px;
+left: 596px;
+top: 40px;
+
+font-family: 'Bahnschrift';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 36px;
+text-align: center;
+
+color: #000000;
+
+}
+/* ===================================================================================== */
+#button_istoria_museya{
+    position: absolute;
+width: 160px;
+height: 70px;
+left: 801px;
+top: 40px;
+
+background: #FFFFFF;
+border-radius: 20px;
+}
+
+#text_istoria_museya{
+position: absolute;
+width: 141px;
+height: 63px;
+left: 809px;
+top: 40px;
+
+font-family: 'Bahnschrift';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 36px;
+text-align: center;
+
+color: #000000;
+}
+/* ===================================================================================== */
+#button_novosti{
+    position: absolute;
+width: 160px;
+height: 70px;
+left: 1019px;
+top: 38px;
+
+background: #FFFFFF;
+border-radius: 20px;
+}
+
+#text_novosti{
+    position: absolute;
+    width: 150px;
+    height: 65px;
+    left: 1040px;
+    top: 40px;
+    
+    font-family: 'Bahnschrift';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 36px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    
+    color: #000000;
+}    
+/* ===================================================================================== */
+#button_kontakti{
+    position: absolute;
+width: 160px;
+height: 70px;
+left: 1019px;
+top: 38px;
+
+background: #FFFFFF;
+border-radius: 20px;position: absolute;
+width: 160px;
+height: 70px;
+left: 1237px;
+top: 40px;
+
+background: #FFFFFF;
+box-shadow: 0px 4px 30px #000000;
+border-radius: 20px;
+}
+
+#text_kontakti{
+    position: absolute;
+width: 160px;
+height: 61px;
+left: 1250px;
+top: 45px;
+
+font-family: 'Bahnschrift';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 36px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+}    
+/* ===================================================================================== */
