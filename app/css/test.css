@@ -1,6 +1,6 @@
 body
 {
-   background: url("../css/nebo.jpg") no-repeat center center fixed;
+   background: url("../images/nebo.jpg") no-repeat center center fixed;
    background-size: cover;
    margin: 0;
    padding: 0;
@@ -15,7 +15,6 @@ h1, h3, p
     background-color: white;
     color:cornflowerblue;
     text-align: center;
-
 }
 h1
 {
@@ -24,7 +23,7 @@ h1
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    background-image: url("../css/cat.jpg");
+    background-image: url("../images/cat.jpg");
     text-indent: -9999px;
     border-top: 1px solid #bcbcbc;
     border-left: 1px solid #bcbcbc;
@@ -56,4 +55,22 @@ p + script + h3
 {
     padding-bottom: 20px;
     border-bottom: 5px solid rgb(113, 218, 33);
+}
+#WelcomeText{
+    margin:0 0 0 50px;
+    float:left;
+    clear: left;
+    width: 320px;
+    background-color: white;
+    color:cornflowerblue;
+    text-align: center;
+}
+#WelcomeText2{
+    margin:0 0 0 50px;
+    float:left;
+    clear: left;
+    width: 320px;
+    background-color: white;
+    color:cornflowerblue;
+    text-align: center;
 }
