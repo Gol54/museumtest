@@ -39,5 +39,11 @@ _welcomeText.textContent = _ban + '!';
 let _welcomeText2 = document.getElementById("WelcomeText2");
 _welcomeText2.textContent = _cost;
 
+/*msg='<h2>окно брузера</h2><h2>ширина'+window.innerHeight+'</h2>';
+msg+='<h2> высота:+window.innerHeight +</h2>';
+msg+= '<h2> история </h2> <h2> элементов' +window.history.length + '</h2>';
+msg +='<h2>экран </h2> <h2> высота '+screen.height +'</h2>';
+msg += '<h2> ширина ' + screen.width + '</h2>';
 
-alert(n);
+let _info = document.getElementById("info");
+_info.innerHTML = msg;*/
