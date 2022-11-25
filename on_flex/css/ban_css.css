@@ -104,3 +104,31 @@
     width: 100%;
     height: 700px;
   }
+  #main_text{
+    width: 500px;
+    height: 750px;
+    font-family: 'Bahnschrift';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 26px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
