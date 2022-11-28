@@ -106,7 +106,7 @@
   }
   #main_text{
     width: 600px;
-    height: fit-content;
+    height: 750px;
     font-family: 'Bahnschrift';
     font-style: normal;
     font-weight: 400;
@@ -114,15 +114,10 @@
     line-height: 26px;
     display: flex;
     align-items: center;
-    margin-left: 100px ;
+    text-align: center;
   }
 
-#main_image{
-width: 650px;
-height: 800px;
-background: url(../images/price.png);
-margin-right: 100px ;
-  }
+
 
 
 
