@@ -97,7 +97,6 @@
     display: flex;
     align-items:center;
     justify-content:center;
-<<<<<<<< HEAD:news.css
     align-items:center;
     margin-top: 1%;
 
@@ -117,23 +116,7 @@
     align-items: center;
     text-align: center;
   }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-========
+.main_body{
     margin-top: 1%;
     flex-direction: row;
     width: 100%;
