@@ -55,7 +55,12 @@
 #text_1_2{
     font-size:35px;
     text-align: center;
-    margin-top: -4%;
+    padding-top: -10px;
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+    height: 70px;
+    line-height: 1em;
 }
 #text_3_4{
     font-size:35px;
@@ -114,16 +119,18 @@
 }
 #map_text{
     font-style: normal;
-    font-size: 20px;
-    text-align: left;
-    width: 400px;
-    height:fit-content;
+    font-size: 30px;
+    text-align: center;
+    width:510px;
+    height:480px;
+    margin-left: 5%;
 }
 #map_text1{
     font-style: normal;
-    font-size: 20px;
-    text-align: right;
-    width: 400px;
-    height:fit-content;
+    font-size: 30px;
+    text-align: center;
+    width:510px;
+    height:480px;
+    margin-right: 10%;
 }
 
