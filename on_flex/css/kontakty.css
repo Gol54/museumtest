@@ -126,18 +126,18 @@
 }
 #map_text{
     font-style: normal;
-    font-size: 30px;
+    font-size: 27px;
     text-align: center;
-    width:510px;
+    width:fit-content;
     height:480px;
-    margin-left: 5%;
+    margin-left: ;
 }
 #map_text1{
     font-style: normal;
-    font-size: 30px;
+    font-size: 27px;
     text-align: center;
-    width:510px;
+    width:fit-content;
     height:480px;
-    margin-right: 10%;
+    margin-right: ;
 }
 
