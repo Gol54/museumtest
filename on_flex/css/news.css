@@ -96,13 +96,19 @@
     width: 400px;
     height:fit-content;
 }
+#kartinka_gerb{
+    width:110px;
+    height: 110px;
+    background-image: url("../images/gerb.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 /*================================================================================================================*\
 \*================================================================================================================*/
 .main_body{
     display: flex;
     align-items:center;
     justify-content:center;
-<<<<<<<< HEAD:news.css
     align-items:center;
     margin-top: 1%;
 
@@ -118,7 +124,6 @@
     font-weight: 400;
     font-size: 22px;
     line-height: 26px;
-    display: flex;
     align-items: center;
     text-align: center;
   }
